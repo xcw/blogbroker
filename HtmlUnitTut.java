@@ -443,7 +443,7 @@ public class HtmlUnitTut {
 
 	public static void main(String[] args) {
 		HtmlUnitTut tut = new HtmlUnitTut();
-		String blogURL = "http://blog.sina.com.cn/tsuanwoo";
+		String blogURL = "http://blog.sina.com.cn/lalalalalala";
 		String blogURLGlobal = "http://blog.sina.com.cn/";
 		String username = "sample@gmail.com";
 		String password = "skdjfowekgs23sknfkd";
