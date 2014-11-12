@@ -445,8 +445,8 @@ public class HtmlUnitTut {
 		HtmlUnitTut tut = new HtmlUnitTut();
 		String blogURL = "http://blog.sina.com.cn/tsuanwoo";
 		String blogURLGlobal = "http://blog.sina.com.cn/";
-		String username = "wuxichuan.go@gmail.com";
-		String password = "1SONofLiGHT";
+		String username = "sample@gmail.com";
+		String password = "skdjfowekgs23sknfkd";
 		try {
 			// tut.homePage(blogURL);
 			System.out.println("BLOGBROKER");
